@@ -25,7 +25,8 @@ This is a simple photo editor GUI application built using Tkinter and Pillow (PI
 - Muhammad Hasnat Rasool
 
 ##Licensed Under 
-www.codingworldhere.com 
+www.codingworldhere.com
+https://sites.google.com/view/codingworldhere
 # Terms of Use
 
 Thank you for using the Photo Editor application ("the Application") created by Muhammad Hasnat Rasool. By using this Application, you agree to the following terms and conditions:
@@ -54,7 +55,7 @@ The author provides no official support or maintenance for the Application. Howe
 
 ## 6. Website
 
-For more information about the Photo Editor and additional resources, please visit [Coding World Here](http://www.codingworldhere.com).(sites.google.com/view/codingworldhere
+For more information about the Photo Editor and additional resources, please visit [Coding World Here](http://www.codingworldhere.com).(https://sites.google.com/view/codingworldhere)
 
 ## 7. Acceptance of Terms
 
