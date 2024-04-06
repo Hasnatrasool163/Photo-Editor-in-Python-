@@ -20,6 +20,14 @@ This is a simple photo editor GUI application built using Tkinter and Pillow (PI
 6. Click "Undo" to undo the last operation.
 7. Click "History Panel" to view recent operations.
 
+##ScreenShot
+
+
+![photoeditor](https://github.com/Hasnatrasool163/Photo-Editor-in-Python-/assets/153990457/cfa274a5-edbb-44c7-868a-dc9ec8e6ad6b)
+
+
+
+
 ## Author
 
 - Muhammad Hasnat Rasool
