@@ -69,7 +69,7 @@ For more information about the Photo Editor and additional resources, please vis
 
 By using the Photo Editor, you acknowledge that you have read, understood, and agreed to these terms of use. If you do not agree with these terms, please refrain from using the Application.
 
-For any inquiries or concerns, please contact the author at [FA23-BCS-116@cuilahore.edu.pk].
+For any inquiries or concerns, please contact me at hasnatrasool163@gmail.com.
 
 Thank you for using the Photo Editor!
 
